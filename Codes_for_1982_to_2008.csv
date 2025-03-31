@@ -1,0 +1,52 @@
+,Column,code_iaids,meaning
+294,Phase_of_Flight,504,Standing - engine(s) not operating
+504,Phase_of_Flight,531,Climb - to cruise
+505,Phase_of_Flight,540,Cruise
+506,Phase_of_Flight,541,Cruise - normal
+638,Phase_of_Flight,550,Descent
+639,Phase_of_Flight,551,Descent - normal
+640,Phase_of_Flight,552,Descent - emergency
+641,Phase_of_Flight,553,Descent - uncontrolled
+659,Phase_of_Flight,573,Landing - aborted
+660,Phase_of_Flight,581,Maneuvering - aerial application
+661,Phase_of_Flight,592,Hover - out of ground effect
+1128,Phase_of_Flight,520,Takeoff
+1129,Phase_of_Flight,521,Takeoff - roll/run
+1545,Phase_of_Flight,514,Taxi - aerial
+1546,Phase_of_Flight,530,Climb
+1547,Phase_of_Flight,542,Maneuvering - holding (IFR)
+1548,Phase_of_Flight,560,Approach
+1549,Phase_of_Flight,565,Go-around (VFR)
+1550,Phase_of_Flight,569,Missed approach (IFR)
+2547,Phase_of_Flight,522,Takeoff - initial climb
+2548,Phase_of_Flight,523,Takeoff - aborted
+2723,Phase_of_Flight,505,Standing - idling rotors
+2724,Phase_of_Flight,510,Taxi
+2725,Phase_of_Flight,511,Taxi - pushback/tow
+2726,Phase_of_Flight,512,Taxi - to takeoff
+2727,Phase_of_Flight,513,Taxi - from landing
+2744,Phase_of_Flight,561,Approach - VFR pattern - downwind
+2745,Phase_of_Flight,562,Approach - VFR pattern - turn to base
+2746,Phase_of_Flight,563,Approach - VFR pattern - base leg/base to final
+2747,Phase_of_Flight,564,Approach - VFR pattern - final approach
+2758,Phase_of_Flight,566,Approach - Initial approach fix (IAF) to final approach fix (FAF)/outer marker (IFR)
+2759,Phase_of_Flight,567,Approach - final approach fix (FAF)/outer marker to threshold (IFR)
+2760,Phase_of_Flight,568,Approach - circling (IFR)
+2771,Phase_of_Flight,570,Landing
+2772,Phase_of_Flight,571,Landing - flare/touchdown
+2773,Phase_of_Flight,572,Landing - roll
+2798,Phase_of_Flight,574,Emergency landing
+2799,Phase_of_Flight,575,Emergency landing after takeoff
+2800,Phase_of_Flight,576,Emergency descent/landing
+2801,Phase_of_Flight,580,Maneuvering
+2812,Phase_of_Flight,582,Maneuvering - turn to reverse direction
+2813,Phase_of_Flight,583,Maneuvering - turn to landing area (emergency)
+2814,Phase_of_Flight,590,Hover
+2815,Phase_of_Flight,591,Hover - in ground effect
+2826,Phase_of_Flight,600,Other
+2827,Phase_of_Flight,610,Unknown
+2828,Phase_of_Flight,,
+3038,Phase_of_Flight,500,Standing
+3039,Phase_of_Flight,501,Standing - pre-flight
+3040,Phase_of_Flight,502,Standing - starting engine(s)
+3041,Phase_of_Flight,503,Standing - engine(s) operating
